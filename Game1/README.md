@@ -3,7 +3,7 @@ https://mp.weixin.qq.com/s/_-AChGldQzdwXN-ljcCMFQ
 
 # Environment
 ```
-OS: Windows10
+OS: Windows10 or Windows11
 Python: Python3.5+(have installed necessary dependencies)
 ```
 
